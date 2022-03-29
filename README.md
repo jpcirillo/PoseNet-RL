@@ -9,7 +9,7 @@ This project demonstrates implementation of Google's Teachable Machine with Pose
 
 ## Technologies
 * JavaScript
-* PoseNet
+* PoseNet/TensorFlow
 * Google Teachable Machine
 * Socket.IO
 * RobotJS
