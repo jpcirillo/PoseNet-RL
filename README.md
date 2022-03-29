@@ -16,9 +16,6 @@ This project demonstrates implementation of Google's Teachable Machine with Pose
 * CSS
 * HTML
 
-</br>
-</br>
-
 ## Running Locally
 ```
 npm install
